@@ -1,0 +1,2 @@
+class ForeignAid < Action
+end
